@@ -1,10 +1,14 @@
-### Hi there 👋
-
-
 [![Linkedin: riccardosanti](https://img.shields.io/twitter/url?label=Riccardo%20Santi&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Friccardo-santi%2F&link=https://www.linkedin.com/in/riccardo-santi/)](https://www.linkedin.com/in/riccardo-santi/)
 [![GitHub Riksa011](https://img.shields.io/github/followers/Riksa011?style=social)](https://github.com/Riksa011/)
+
+### 👋 Hi, I'm Riccardo Santi
+I'm actually studying Blockchain Development at [Start2Impact](https://www.start2impact.it/), you can track my progress [here](https://talent.start2impact.it/profile/riccardo-santi)
+
+
+
+
 <!--
-**Riksa011/Riksa011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://shields.io/
 
 Here are some ideas to get you started:
 
