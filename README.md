@@ -2,7 +2,8 @@
 [![GitHub Riksa011](https://img.shields.io/github/followers/Riksa011?style=social)](https://github.com/Riksa011/)
 
 ### 👋 Hi, I'm Riccardo Santi
-I'm actually studying Blockchain Development at [Start2Impact](https://www.start2impact.it/), you can track my progress [here](https://talent.start2impact.it/profile/riccardo-santi)
+I'm actually studying Blockchain Development at [Start2Impact](https://www.start2impact.it/), you can track my progress [here](https://talent.start2impact.it/profile/riccardo-santi).
+I'm a Bitcoin and Crypto enthusiast
 
 
 
