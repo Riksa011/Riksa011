@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Linkedin: riccardosanti](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardo-santi/)](https://www.linkedin.com/in/riccardo-santi/)
+[![GitHub Riksa011](https://img.shields.io/github/followers/Riksa011?style=social)](https://github.com/Riksa011/)
 <!--
 **Riksa011/Riksa011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
