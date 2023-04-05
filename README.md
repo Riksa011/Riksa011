@@ -1,4 +1,4 @@
-[![Linkedin: riccardosanti](https://img.shields.io/twitter/url?label=Riccardo%20Santi&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Friccardo-santi%2F&link=https://www.linkedin.com/in/riccardo-santi/)](https://www.linkedin.com/in/riccardo-santi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-santi/) &nbsp;&nbsp;
 [![GitHub Riksa011](https://img.shields.io/github/followers/Riksa011?style=social)](https://github.com/Riksa011/)
 
 ### 👋 Hi, I'm Riccardo Santi
