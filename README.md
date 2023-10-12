@@ -1,4 +1,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-santi/) &nbsp;&nbsp;
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://riccardo-santi.vercel.app/) &nbsp;&nbsp;
 [![GitHub Riksa011](https://img.shields.io/github/followers/Riksa011?style=social)](https://github.com/Riksa011/)
 
 ### 👋 Hi, I'm Riccardo Santi
