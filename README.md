@@ -4,14 +4,10 @@
 
 ### 👋 Hi, I'm Riccardo Santi
 
-🙋🏻‍♂️ I'm a 19-year-old guy passionate about blockchain and cryptocurrencies, determined to turn my passion into a career on the web.
+🙋🏻‍♂️ I'm a young guy passionate about blockchain and cryptocurrencies, determined to turn my passion into a career on the web.
 
 🔗 I believe that blockchain is a disruptive technology that will change our world and it deserves to be studied and supported.
 
-👨🏻‍💻 I attended the Blockchain Development Master at Start2Impact University, working on 5 individual full-stack projects over 9 months. Through this hands-on experience, I've gained a strong foundation in web development using Django and Next.js, as well as skills in writing smart contracts in Solidity.
-
-💼 I’m actively seeking new job opportunities that will make me grow both personally and professionally, and I'm excited to put my web development skills into practice 🚀.
-<br><br>
 📁 Here you can take a look at my [projects portfolio](https://riccardo-santi.vercel.app/)<br>
 🗨️ Here you connect with me on [Linkedin](https://www.linkedin.com/in/riccardo-santi/)
 
