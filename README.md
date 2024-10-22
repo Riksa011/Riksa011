@@ -9,7 +9,7 @@
 🔗 I believe that blockchain is a disruptive technology that will change our world and it deserves to be studied and supported.
 
 <!--📁 Here you can take a look at my [projects portfolio](https://riccardo-santi.vercel.app/)<br>-->
-🗨️ Here you connect with me on [Linkedin](https://www.linkedin.com/in/riccardo-santi/)
+🗨️ Connect with me on [Linkedin](https://www.linkedin.com/in/riccardo-santi/)
 
 
 
